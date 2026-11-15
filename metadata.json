@@ -1,0 +1,8 @@
+{
+  "name": "Lich Gogo Excellence Boarding School LMS",
+  "description": "Centralized E-Learning Management System for Lich Gogo Excellence Boarding School in Hosanna, Ethiopia — managing students, Natural and Social Science streams, assessments, automated grading, attendance, financial clearance, and academic reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
